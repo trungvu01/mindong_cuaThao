@@ -9,7 +9,7 @@ const Footer = () => {
                 <Row className="footer-row">
                     <Col md={3} sm={5} className="box">
                         <div className="logo">
-                            <h1>MIN DONG</h1>
+                            <h1>MINDONG</h1>
                         </div>
                         <p>
                             Chúng tôi mang đến những sản phẩm chất lượng, giúp
