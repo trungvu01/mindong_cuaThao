@@ -44,7 +44,7 @@ const Footer = () => {
                                 KDTM65A , 207 Giải Phóng , P.Đồng Tâm , Hai Bà
                                 Trưng , Hà Nội{" "}
                             </li>
-                            <li>Email: 65ecc@gmail.com</li>
+                            <li>Email: kdtm65a@gmail.com</li>
                             <li>Phone: 09 8386 8386 </li>
                         </ul>
                     </Col>
