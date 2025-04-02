@@ -41,7 +41,7 @@ const Footer = () => {
                         <h2>Liên hệ với chúng tôi</h2>
                         <ul>
                             <li>
-                                ECOM65 , 207 Giải Phóng , P.Đồng Tâm , Hai Bà
+                                KDTM65A , 207 Giải Phóng , P.Đồng Tâm , Hai Bà
                                 Trưng , Hà Nội{" "}
                             </li>
                             <li>Email: 65ecc@gmail.com</li>
